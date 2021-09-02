@@ -7,13 +7,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .banner {
-  backgroundImage: "url('C:\Users\phna001\Documents\DnJWedding.github.io\app\components\Header\banner.jpg')";
+  backgroundImage: "url('C:\Users\phna001\Documents\DnJWedding.github.io\src\Images\tipNkiss.jpg')";
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
