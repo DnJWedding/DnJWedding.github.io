@@ -6,12 +6,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.banner {
-  backgroundImage: "url('C:\Users\phna001\Documents\DnJWedding.github.io\src\Images\tipNkiss.jpg')";
+.background {
   height: 100vh;
+  /*width:  100%;*/
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: absolute;
+}
+.banner {
+  text-align: center;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -20,4 +24,7 @@ code {
 .moto {
   font-size: 10px;
   font-style: italic;
+}
+.jumbotron {
+    background: rgba(204, 204, 204, 0.5);
 }
