@@ -13,13 +13,20 @@ function Navigation(props) {
             <Nav className="me-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/weddingagenda">Wedding Agenda</Nav.Link>
-              <NavDropdown id="nav-dropdown-dark-example" title="Dropdown">
-                  <NavDropdown.Item href="/aboutDhruv">About Dhruv</NavDropdown.Item>
-                  <NavDropdown.Item href="/historyOfNathwani">Nathwani History</NavDropdown.Item>
-                  <NavDropdown.Item href="/aboutDhruv">Beans</NavDropdown.Item>
-                  <NavDropdown.Divider />
-                  <NavDropdown.Item href="/aboutDhruv">More Beans</NavDropdown.Item>
-                </NavDropdown>
+              <NavDropdown id="about-the-couple-drop-down" title="About the Couple">
+                <NavDropdown.Item href="/aboutDhruv">About Dhruv</NavDropdown.Item>
+                <NavDropdown.Item href="/historyOfNathwani">Nathwani History</NavDropdown.Item>
+                <NavDropdown.Item href="/aboutDhruv">Beans</NavDropdown.Item>
+                <NavDropdown.Divider />
+                <NavDropdown.Item href="/aboutDhruv">More Beans</NavDropdown.Item>
+              </NavDropdown>
+              <NavDropdown id="ceremony-drop-down" title="About the ceremonies">
+                <NavDropdown.Item href="/aboutDhruv">About Dhruv</NavDropdown.Item>
+                <NavDropdown.Item href="/historyOfNathwani">Nathwani History</NavDropdown.Item>
+                <NavDropdown.Item href="/aboutDhruv">Beans</NavDropdown.Item>
+                <NavDropdown.Divider />
+                <NavDropdown.Item href="/aboutDhruv">More Beans</NavDropdown.Item>
+              </NavDropdown>
             </Nav>
           </Navbar.Collapse>
         </Container>
