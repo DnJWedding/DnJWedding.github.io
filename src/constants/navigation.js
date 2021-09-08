@@ -1,0 +1,13 @@
+export const ABOUT_PATH = "/About";
+export const ABOUT_DHRUV_PATH =  "/AboutDhruv";
+export const ABOUT_JORDAN_PATH = "/AboutJordan";
+export const CONTACT_PATH = "/Contact";
+export const CUSTOM_RITUALS_PATH = "/CustomsRituals";
+export const HISTORY_OF_BUTCHES_PATH = "/HistoryOfBuches";
+export const HISTORY_OF_NATHWANI_PATH = "/HistoryOfNathwani";
+export const HOME_PATH = "/";
+export const HOW_DHRUV_MET_JORDAN_PATH = "/HowDhruvMetJordan";
+export const MENDHI_PATH = "/Mendhi";
+export const MUSIC_PATH = "/MusicSelection";
+export const PROPOSAL_PATH = "/Proposal";
+export const WEDDING_AGEDNA_PATH = "/WeddingAgenda";
