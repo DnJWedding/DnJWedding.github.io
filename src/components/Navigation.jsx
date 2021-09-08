@@ -7,7 +7,7 @@ function Navigation(props) {
     <div className="navigation">
       <Navbar bg="dark" expand="lg" variant="dark">
         <Container>
-          <Navbar.Brand href="/">Wedding</Navbar.Brand>
+          <Navbar.Brand href="/">D&J Wedding</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav" class="navbar-nav ml-auto">
             <Nav className="me-auto">

@@ -7,9 +7,9 @@ function Home() {
       <div class="container">
         <div class="banner">
           <Jumbotron fluid>
-            <h1>Purshottam Manji Nathwani welcomes you</h1>
+            <h1>Purshottam Manji Nathwani welcomes you to</h1>
             <p>
-              to the wedding of Jordan Buches and Dhruv Nathwani
+                the wedding of Jordan Buches and Dhruv Nathwani
             </p>
           </Jumbotron>
         </div>
