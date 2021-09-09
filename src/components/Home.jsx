@@ -5,8 +5,8 @@ import background from "./../images/tipNkiss.jpg"
 function Home() {
   return (
     <div className="home">
-      <div class="container background"  style={{ backgroundImage: `url(${background})` }}>
-        <div class="banner">
+      <div className="container background"  style={{ backgroundImage: `url(${background})` }}>
+        <div className="banner">
           <Jumbotron fluid>
             <h1>Purshottam Manji Nathwani welcomes you</h1>
             <p>to the wedding of Jordan Buches and Dhruv Nathwani</p>

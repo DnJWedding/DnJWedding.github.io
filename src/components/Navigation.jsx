@@ -1,8 +1,6 @@
 import { 
-  ABOUT_PATH,
   ABOUT_DHRUV_PATH,
   ABOUT_JORDAN_PATH,
-  CONTACT_PATH,
   CUSTOM_RITUALS_PATH,
   HISTORY_OF_BUTCHES_PATH,
   HISTORY_OF_NATHWANI_PATH,
@@ -14,10 +12,10 @@ import {
   WEDDING_AGEDNA_PATH,
 } from "./../constants/navigation.js";
 import React from "react";
-import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem, Nav, Navbar, NavDropdown, Container } from "react-bootstrap";
-import { Link, withRouter } from "react-router-dom";
+import { Nav, Navbar, NavDropdown, Container } from "react-bootstrap";
+import { withRouter } from "react-router-dom";
 
-function Navigation(props) {
+function Navigation() {
   return (
     <div className="navigation">
       <Navbar bg="dark" expand="lg" variant="dark">
@@ -30,12 +28,12 @@ function Navigation(props) {
               <Nav.Link href={WEDDING_AGEDNA_PATH}>Wedding Agenda</Nav.Link>
               <NavDropdown id="about-the-couple-drop-down" title="About the Couple">
                 <NavDropdown.Item href={ABOUT_JORDAN_PATH}>About Jordan</NavDropdown.Item>
-                <NavDropdown.Item href={HISTORY_OF_BUTCHES_PATH}>Butches History</NavDropdown.Item>
-                <NavDropdown.Divider />
                 <NavDropdown.Item href={ABOUT_DHRUV_PATH}>About Dhruv</NavDropdown.Item>
-                <NavDropdown.Item href={HISTORY_OF_NATHWANI_PATH}>Nathwani History</NavDropdown.Item>
-                <NavDropdown.Divider />
+                <NavDropdown.Item href={HOW_DHRUV_MET_JORDAN_PATH}>The Couple&apos;s History</NavDropdown.Item>
                 <NavDropdown.Item href={PROPOSAL_PATH}>The Proposal</NavDropdown.Item>
+                <NavDropdown.Divider />
+                <NavDropdown.Item href={HISTORY_OF_BUTCHES_PATH}>Butches History</NavDropdown.Item>
+                <NavDropdown.Item href={HISTORY_OF_NATHWANI_PATH}>Nathwani History</NavDropdown.Item>                
               </NavDropdown>
               <NavDropdown id="ceremony-drop-down" title="About the ceremonies">
                 <NavDropdown.Item href={CUSTOM_RITUALS_PATH}>Customs and Rituals</NavDropdown.Item>

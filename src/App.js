@@ -1,8 +1,6 @@
 import { 
-  About,
   AboutDhruv,
   AboutJordan,
-  Contact,
   CustomsRituals,
   Footer,
   HistoryOfBuches,
@@ -16,10 +14,8 @@ import {
   WeddingAgenda,
 } from "./components";
 import { 
-  ABOUT_PATH,
   ABOUT_DHRUV_PATH,
   ABOUT_JORDAN_PATH,
-  CONTACT_PATH,
   CUSTOM_RITUALS_PATH,
   HISTORY_OF_BUTCHES_PATH,
   HISTORY_OF_NATHWANI_PATH,
@@ -39,10 +35,8 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <Route path={ABOUT_PATH} exact component={() => <About />} />
           <Route path={ABOUT_DHRUV_PATH} exact component={() => <AboutDhruv />} />
           <Route path={ABOUT_JORDAN_PATH} exact component={() => <AboutJordan />} />
-          <Route path={CONTACT_PATH} exact component={() => <Contact />} />
           <Route path={CUSTOM_RITUALS_PATH} exact component={() => <CustomsRituals />} />
           <Route path={HISTORY_OF_BUTCHES_PATH} exact component={() => <HistoryOfBuches />} />
           <Route path={HISTORY_OF_NATHWANI_PATH} exact component={() => <HistoryOfNathwani />} />

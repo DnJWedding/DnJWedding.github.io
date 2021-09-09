@@ -1,7 +1,5 @@
-export { default as About } from "./About";
 export { default as AboutDhruv } from "./AboutDhruv";
 export { default as AboutJordan } from "./AboutJordan";
-export { default as Contact } from "./Contact";
 export { default as CustomsRituals } from "./CustomsRituals";
 export { default as Footer } from "./Footer";
 export { default as HistoryOfBuches } from "./HistoryOfBuches";
