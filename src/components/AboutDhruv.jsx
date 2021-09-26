@@ -18,12 +18,7 @@ function AboutDhruv() {
               Dhruv Nathwani was born on Dec 6th 1991 in Idaho. His mother is Kala Nathwani.
               and His father's Name is Jay Nathwani.  Dhruv has one younder sister, Halley Radhika and  
               one younger brother Jaylen Janak.  Dhruv was named by his foi (father's sister).
-    <img
-              className="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-    id="Dhruv baby picture"
-            />
+
             </p>
           </div>
         </div>
