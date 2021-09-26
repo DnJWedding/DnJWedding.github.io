@@ -18,7 +18,15 @@ function AboutDhruv() {
               Dhruv Nathwani was born on Dec 6th 1991 in Idaho. His mother is Kala Nathwani.
               and His father's Name is Jay Nathwani.  Dhruv has one younder sister, Halley Radhika and  
               one younger brother Jaylen Janak.  Dhruv was named by his foi (father's sister).
-
+            </p>
+            <p>
+              Dhruv was able to speak two languages before turning two. His favorte thing was to read books - about planes and trains. 
+              He traveled to India before turning two. He started his education at provate school in Macon Georgia. After returing to Idaho
+              he went to Rosery....He went middleschool and high school in Colorado. He graduated in 2009 and 
+              decided to go to University of Pittsburg. 
+            </p>
+             <p>
+              Dhruv's... 
             </p>
           </div>
         </div>
