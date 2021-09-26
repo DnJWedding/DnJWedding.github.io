@@ -15,10 +15,15 @@ function AboutDhruv() {
           <div className="col-lg-5">
             <h1 className="font-weight-light">About Dhruv</h1>
             <p>
-              Lorem Ipsum is simply text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Dhruv Nathwani was born on Dec 6th 1991 in Idaho. His mother is Kala Nathwani.
+              and His father's Name is Jay Nathwani.  Dhruv has one younder sister, Halley Radhika and  
+              one younger brother Jaylen Janak.  Dhruv was named by his foi (father's sister).
+    <img
+              className="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+    id="Dhruv baby picture"
+            />
             </p>
           </div>
         </div>
