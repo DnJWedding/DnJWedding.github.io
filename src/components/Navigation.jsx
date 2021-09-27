@@ -28,7 +28,7 @@ function Navigation() {
               <Nav.Link href={WEDDING_AGEDNA_PATH}>Wedding Agenda</Nav.Link>
               <NavDropdown id="about-the-couple-drop-down" title="About the Couple">
                 <NavDropdown.Item href={ABOUT_JORDAN_PATH}>About Jordan</NavDropdown.Item>
-                <NavDropdown.Item href={ABOUT_DHRUV_PATH}>About Dhruv</NavDropdown.Item>
+                <NavDropdown.Item href="/AboutDhruv">About Dhruv</NavDropdown.Item>
                 <NavDropdown.Item href={HOW_DHRUV_MET_JORDAN_PATH}>The Couple&apos;s History</NavDropdown.Item>
                 <NavDropdown.Item href={PROPOSAL_PATH}>The Proposal</NavDropdown.Item>
                 <NavDropdown.Divider />
