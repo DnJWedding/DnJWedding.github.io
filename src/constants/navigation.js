@@ -1,4 +1,4 @@
-export const ABOUT_DHRUV_PATH =  "/AboutDhruv";
+export const ABOUT_DHRUV_PATH =  "/about-dhruv";
 export const ABOUT_JORDAN_PATH = "/AboutJordan";
 export const CUSTOM_RITUALS_PATH = "/CustomsRituals";
 export const HISTORY_OF_BUTCHES_PATH = "/HistoryOfBuches";
