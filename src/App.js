@@ -25,7 +25,7 @@ import {
   MUSIC_PATH,
   PROPOSAL_PATH,
   WEDDING_AGEDNA_PATH,
-} from "./constants/navigation.js";
+} from "./routes";
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 

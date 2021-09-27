@@ -10,7 +10,7 @@ function Home() {
           <Jumbotron fluid>
             <h1>Purshottam Manji Nathwani welcomes you</h1>
             <p>to the wedding of Jordan Buches and Dhruv Nathwani</p>
-            <p>navigation debugging</p>
+            <p>navigation debugging #3</p>
           </Jumbotron>
         </div>
         

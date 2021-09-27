@@ -10,7 +10,7 @@ import {
   MUSIC_PATH,
   PROPOSAL_PATH,
   WEDDING_AGEDNA_PATH,
-} from "./../constants/navigation.js";
+} from "./../routes";
 import React from "react";
 import { Nav, Navbar, NavDropdown, Container } from "react-bootstrap";
 import { withRouter } from "react-router-dom";
