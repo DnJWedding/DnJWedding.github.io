@@ -35,7 +35,7 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <Route path={ABOUT_DHRUV_PATH} exact component={() => <AboutDhruv />} />
+          <Route path="/AboutDhruv" exact component={() => <AboutDhruv />} />
           <Route path={ABOUT_JORDAN_PATH} exact component={() => <AboutJordan />} />
           <Route path={CUSTOM_RITUALS_PATH} exact component={() => <CustomsRituals />} />
           <Route path={HISTORY_OF_BUTCHES_PATH} exact component={() => <HistoryOfBuches />} />
