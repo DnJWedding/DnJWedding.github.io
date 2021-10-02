@@ -16,10 +16,14 @@ function Mendhi() {
             <h1 className="font-weight-light">Mehndi</h1>
             <p>
               Indian traditions are full of colorful and traditional rituals. 
-              The two of such hindu traditions are Mehndi and haldi.
+              The two of such hindu traditions are Mehndi and haldi. Mehndi has
+              been used as a form of art. Menhdi party is held day or two before 
+              the wedding day.  Menhdi is to beautify and bless the bride. According
+              to legends, it's said that the darker the color of the menhdi, the more 
+              love teh bride will received from goom and his fmaily.  
               Mehndi is also known as henna and is made from dry leaves poweder
               of Lawsonia intermis (aka henna plant). Mehndi reduces stress and
-              avoids bride gettign swetty palm.
+              avoids bride gettign swetty palm. 
             </p>
           </div>
         </div>
