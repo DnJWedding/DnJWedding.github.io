@@ -8,8 +8,9 @@ function Home() {
       <div className="container background"  style={{ backgroundImage: `url(${background})` }}>
         <div className="banner">
           <Jumbotron fluid>
-            <h1>Purshottam Manji Nathwani welcomes you</h1>
-            <p>to the wedding of Jordan Buches and Dhruv Nathwani</p>
+            <h1>Purshottam Manji Nathwani</h1>
+            <p>welcomes you to the wedding of</p>
+            <h2>Jordan Buches and Dhruv Nathwani</h2>
           </Jumbotron>
         </div>
         

@@ -36,7 +36,7 @@ function Navigation() {
               </NavDropdown>
               <NavDropdown id="ceremony-drop-down" title="About the ceremonies">
                 <NavDropdown.Item href={CUSTOM_RITUALS_PATH}>Customs and Rituals</NavDropdown.Item>
-                <NavDropdown.Item href={MENDHI_PATH}>Mendhi</NavDropdown.Item>
+                <NavDropdown.Item href={MENDHI_PATH}>Mehndi</NavDropdown.Item>
                 <NavDropdown.Item href={MUSIC_PATH}>About the Music Selection</NavDropdown.Item>
               </NavDropdown>
             </Nav>

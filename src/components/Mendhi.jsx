@@ -13,12 +13,28 @@ function Mendhi() {
             />
           </div>
           <div className="col-lg-5">
-            <h1 className="font-weight-light">Mendhi</h1>
+            <h1 className="font-weight-light">Mehndi</h1>
             <p>
-              Lorem Ipsum is simply text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Indian traditions are full of colorful and traditional rituals. 
+              The two of such hindu traditions are Mehndi and haldi.
+              Mehndi is also known as henna and is made from dry leaves poweder
+              of Lawsonia intermis (aka henna plant). Mehndi reduces stress and
+              avoids bride gettign swetty palm.
+            </p>
+          </div>
+        </div>
+        <div className="row align-items-center my-5">
+          <div className="col-lg-12">
+            <h1 className="font-weight-light">Haldi</h1>
+            <p>
+              Haldi is also know as Pithi. Haldi ceremony is an old indian tradition. 
+              Heldi ceremony is kept at both bride and groom family. During this ceremony,
+              married women applies on the morning of the wedding day. Haldi gives the skin 
+              natiral radient and glowing. Haldi is known to purify and cleanse the body of 
+              the couple entering into holy matromony. Haldi is used to protect the couple
+              from bad omen that might harm them before they start their new life. Haldi 
+              is used to calm anxity and jitter that one may exprience.
+
             </p>
           </div>
         </div>
