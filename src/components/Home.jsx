@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="home">
       <div className="container background"  style={{ backgroundImage: `url(${background})` }}>
-        <div className="banner card">
+        <div className="banner">
           <Jumbotron fluid>
             <h1 style={{ "font-family":'Carattere' }}>Purshottam Manji Nathwani</h1>
             <p style={{ "font-family":'Carattere', "font-size": 24 }}>welcomes you to</p>
