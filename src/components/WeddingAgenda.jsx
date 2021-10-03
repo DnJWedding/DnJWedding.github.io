@@ -5,10 +5,10 @@ function WeddingAgenda() {
   return (
     <div className="home">
       <Container className="container">
-        <div className="row text-center mt-5 mb-2">
+        <div className="row text-center pt-5 pb-2">
           <h1 className="banner font-weight-light">Wedding Agenda</h1>
         </div>
-        <div className="row mb-5">
+        <div className="row pb-5">
           <div className="col-md-4">
             <h2 className="font-weight-light">Thursday</h2>
             <Card>

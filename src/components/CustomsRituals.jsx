@@ -12,7 +12,7 @@ function CustomsRituals() {
   return (
     <div className="home">
       <div className="container">
-        <div className="row align-items-center my-5">
+        <div className="row align-items-center">
           <div className="col-lg-7">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
@@ -138,14 +138,14 @@ function CustomsRituals() {
             <p>
               The couple then walks seven steps together recuting mantras which express their principal duties as housholders:
             </p>
-            <ListGroup variant="flush">
-              <ListGroup.Item>Let us take the first step to provide our household with a nourishing diet.</ListGroup.Item>
-              <ListGroup.Item>Let us take the second step to develop physical, mental, and spiritual powers.</ListGroup.Item>
-              <ListGroup.Item>Let us take the thrid step to acquire and increase our wealth by righteous means and proper use.</ListGroup.Item>
-              <ListGroup.Item>Let us take the fourth step to acquire knowledge, happiness, and harmony by mutual love and trust</ListGroup.Item>
-              <ListGroup.Item>Let us take the fifth step so that we are blessed with strong, virtuous and heroic children.</ListGroup.Item>
-              <ListGroup.Item>Let us take the sixth step for self restaint and longevity.</ListGroup.Item>
-              <ListGroup.Item>Let us take the seventh step to be true and faithful companions and remain lifelong partners by this wedlock.</ListGroup.Item>
+            <ListGroup className="listPanel" variant="flush">
+              <ListGroup.Item variant="dark">Let us take the first step to provide our household with a nourishing diet.</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the second step to develop physical, mental, and spiritual powers.</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the thrid step to acquire and increase our wealth by righteous means and proper use.</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the fourth step to acquire knowledge, happiness, and harmony by mutual love and trust</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the fifth step so that we are blessed with strong, virtuous and heroic children.</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the sixth step for self restaint and longevity.</ListGroup.Item>
+              <ListGroup.Item variant="dark">Let us take the seventh step to be true and faithful companions and remain lifelong partners by this wedlock.</ListGroup.Item>
             </ListGroup>
           </div>
           <div className="col-lg-12">
