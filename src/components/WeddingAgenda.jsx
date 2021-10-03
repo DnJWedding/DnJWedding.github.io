@@ -6,7 +6,7 @@ function WeddingAgenda() {
     <div className="home">
       <Container className="container">
         <div className="row text-center pt-5 pb-2">
-          <h1 className="banner font-weight-light">Wedding Agenda</h1>
+          <h1 className="font-weight-light">Wedding Agenda</h1>
         </div>
         <div className="row pb-5">
           <div className="col-md-4">
