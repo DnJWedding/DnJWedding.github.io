@@ -11,7 +11,7 @@ function WeddingAgenda() {
         <div className="row pb-5">
           <div className="col-md-4">
             <h2 className="font-weight-light">Thursday</h2>
-            <Card>
+            <Card className="card">
               <Card.Body>
                 <Card.Title>Wedding Preparation</Card.Title>
                 <Card.Text>
@@ -27,7 +27,7 @@ function WeddingAgenda() {
           </div>
           <div className="col-md-4">
             <h2 className="font-weight-light">Friday</h2>
-            <Card>
+            <Card className="card">
               <Card.Body>
                 <Card.Title>Free Day!</Card.Title>
                 <Card.Text>
@@ -39,7 +39,7 @@ function WeddingAgenda() {
           </div>
           <div className="col-md-4">
             <h2 className="font-weight-light">Saturday</h2>
-            <Card>
+            <Card className="card">
               <Card.Body>
                 <Card.Title>Wedding & Reception</Card.Title>
               </Card.Body>

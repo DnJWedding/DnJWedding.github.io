@@ -3,6 +3,9 @@
     background-image: linear-gradient(rgb(33,33,33), rgb(40,55,135));
     color: white;
 }
+.card {
+    color: black;
+}
 .listPanel{
     background-color: rgb(40,55,135);
     color: black;
