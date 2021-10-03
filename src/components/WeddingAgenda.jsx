@@ -5,7 +5,7 @@ function WeddingAgenda() {
   return (
     <div className="home">
       <Container className="container">
-        <div className="row text-center my-5">
+        <div className="row text-center">
           <h1 className="banner font-weight-light">Wedding Agenda</h1>
         </div>
         <div className="row align-items-center">
