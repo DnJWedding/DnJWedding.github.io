@@ -4,7 +4,8 @@ function Mendhi() {
   return (
     <div className="home">
       <div className="container">
-        <div className="row align-items-center">
+        <div className="row align-items-center pt-3">
+          <h1 className="font-weight-light">Wedding Preparation</h1>
           <div className="col-lg-7">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
@@ -13,7 +14,7 @@ function Mendhi() {
             />
           </div>
           <div className="col-lg-5">
-            <h1 className="font-weight-light">Mehndi</h1>
+            <h2 className="font-weight-light">Mehndi</h2>
             <p>
               Indian traditions are full of colorful and traditional rituals. 
               The two of such hindu traditions are Mehndi and haldi. Mehndi has
@@ -29,7 +30,7 @@ function Mendhi() {
         </div>
         <div className="row align-items-center">
           <div className="col-lg-12">
-            <h1 className="font-weight-light">Haldi</h1>
+            <h2 className="font-weight-light">Haldi</h2>
             <p>
               Haldi is also know as Pithi. Haldi ceremony is an old indian tradition. 
               Heldi ceremony is kept at both bride and groom family. During this ceremony,

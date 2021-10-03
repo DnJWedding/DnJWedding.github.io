@@ -21,7 +21,7 @@ function CustomsRituals() {
             />
           </div>
           <div className="col-lg-5">
-            <h1 className="font-weight-light">Customs and Rituals</h1>
+            <h1 className="font-weight-light">Wedding Customs and Rituals</h1>
             <p>
               According to Hinduism there are sixteen religious rites to be preformed by every
               Hindu. These are called <i>sanskaras</i>. <i>Vivah</i> (marriage) is one of these <i>sanskaras</i> according
@@ -97,8 +97,8 @@ function CustomsRituals() {
             <h3 className="font-weight-light">He is welcomed by Bride&apos;s Father</h3>
             <p>
               The <i>Vivah</i> preparation now begins and proceeds in the following stages. The dulha enters the <i>Mandap</i> for the
-              first time. Madhuparka is a sweet liquid combination of ghee, dhai and honey. Under the bedecked atmosphere, the dulha's
-              hand is held by the dulhan's fther and his request is that the relationship between the two parties remain as "sweet" as 
+              first time. Madhuparka is a sweet liquid combination of ghee, dhai and honey. Under the bedecked atmosphere, the dulha&apos;s
+              hand is held by the dulhan&apos;s fther and his request is that the relationship between the two parties remain as "sweet" as 
               the liquid combination ghee, dhai, and honey, which are the ingredients of Hindu hositality. At the same time a loin cloth
               is presnted to the dulhan on which he sits.
             </p>
@@ -106,11 +106,11 @@ function CustomsRituals() {
           <div className="col-lg-12">
             <h3 className="font-weight-light">Kanyadaan</h3>
             <p>
-              Kanya means a maiden dulhan and Daan meand to give. The sacrifical fire is kinded by the dulhan's priest and then
+              Kanya means a maiden dulhan and Daan meand to give. The sacrifical fire is kinded by the dulhan&apos;s priest and then
               the rest of the ceremony takes place. The dulhan, now adorned in a richly colored sori, enters the Mandap. In a touching
-              ceremony, the dulhan's hands are placed in the dulha's while water is being poured in a continous flow by the dulhan's brother.
-              The priedt reads the sacred vow which the dulhan's father takes in giving his daughter away. Now, in all solemnity, she is handed
-              to the man whom she loves and will obey henceforth. The dulhan's father now vows by the sun, starts, the deities, and by the man
+              ceremony, the dulhan&apos;s hands are placed in the dulha&apos;s while water is being poured in a continous flow by the dulhan&apos;s brother.
+              The priedt reads the sacred vow which the dulhan&apos;s father takes in giving his daughter away. Now, in all solemnity, she is handed
+              to the man whom she loves and will obey henceforth. The dulhan&apos;s father now vows by the sun, starts, the deities, and by the man
               to give his daughter away to the dulha.
             </p>
           </div>
@@ -138,15 +138,15 @@ function CustomsRituals() {
             <p>
               The couple then walks seven steps together recuting mantras which express their principal duties as housholders:
             </p>
-            <ListGroup className="listPanel" variant="flush">
-              <ListGroup.Item variant="dark">Let us take the first step to provide our household with a nourishing diet.</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the second step to develop physical, mental, and spiritual powers.</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the thrid step to acquire and increase our wealth by righteous means and proper use.</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the fourth step to acquire knowledge, happiness, and harmony by mutual love and trust</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the fifth step so that we are blessed with strong, virtuous and heroic children.</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the sixth step for self restaint and longevity.</ListGroup.Item>
-              <ListGroup.Item variant="dark">Let us take the seventh step to be true and faithful companions and remain lifelong partners by this wedlock.</ListGroup.Item>
-            </ListGroup>
+            <ol>
+              <li >Let us take the first step to provide our household with a nourishing diet.</li>
+              <li >Let us take the second step to develop physical, mental, and spiritual powers.</li>
+              <li >Let us take the thrid step to acquire and increase our wealth by righteous means and proper use.</li>
+              <li >Let us take the fourth step to acquire knowledge, happiness, and harmony by mutual love and trust</li>
+              <li >Let us take the fifth step so that we are blessed with strong, virtuous and heroic children.</li>
+              <li >Let us take the sixth step for self restaint and longevity.</li>
+              <li >Let us take the seventh step to be true and faithful companions and remain lifelong partners by this wedlock.</li>
+            </ol>
           </div>
           <div className="col-lg-12">
             <h3 className="font-weight-light">Shila Rohan</h3>

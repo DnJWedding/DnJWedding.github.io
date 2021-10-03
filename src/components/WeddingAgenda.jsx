@@ -5,11 +5,11 @@ function WeddingAgenda() {
   return (
     <div className="home">
       <Container className="container">
-        <div className="row text-center pt-5 pb-2">
+        <div className="row text-center pt-3 pb-2">
           <h1 className="font-weight-light">Wedding Agenda</h1>
         </div>
-        <div className="row pb-5">
-          <div className="col-md-4">
+        <div className="row">
+          <div className="col-md-4 pb-5">
             <h2 className="font-weight-light">Thursday</h2>
             <Card className="card">
               <Card.Body>
@@ -25,7 +25,7 @@ function WeddingAgenda() {
               </ListGroup>
             </Card>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 pb-5">
             <h2 className="font-weight-light">Friday</h2>
             <Card className="card">
               <Card.Body>
@@ -37,7 +37,7 @@ function WeddingAgenda() {
               </Card.Body>
             </Card>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-4 pb-5">
             <h2 className="font-weight-light">Saturday</h2>
             <Card className="card">
               <Card.Body>

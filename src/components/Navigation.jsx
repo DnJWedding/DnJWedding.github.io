@@ -35,8 +35,8 @@ function Navigation() {
                 <NavDropdown.Item href={HISTORY_OF_NATHWANI_PATH}>Nathwani History</NavDropdown.Item>                
               </NavDropdown>
               <NavDropdown id="ceremony-drop-down" title="About the ceremonies">
-                <NavDropdown.Item href={CUSTOM_RITUALS_PATH}>Customs and Rituals</NavDropdown.Item>
-                <NavDropdown.Item href={MENDHI_PATH}>Mehndi</NavDropdown.Item>
+                <NavDropdown.Item href={MENDHI_PATH}>Wedding Preparation</NavDropdown.Item>
+                <NavDropdown.Item href={CUSTOM_RITUALS_PATH}>Wedding Day</NavDropdown.Item>
                 <NavDropdown.Item href={MUSIC_PATH}>About the Music Selection</NavDropdown.Item>
               </NavDropdown>
             </Nav>
