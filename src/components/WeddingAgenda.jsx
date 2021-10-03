@@ -5,49 +5,51 @@ function WeddingAgenda() {
   return (
     <div className="home">
       <Container className="container">
-        <div className="row text-center my-5">
+        <div className="row text-center mt-5 mb-2">
           <h1 className="banner font-weight-light">Wedding Agenda</h1>
         </div>
-        <div className="row align-items-center">
+        <div className="row mb-5">
           <div className="col-md-4">
             <h2 className="font-weight-light">Thursday</h2>
             <Card>
-              <Card.Img variant="top" src="http://placehold.it/100x180" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Wedding Preparation</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of
-                  the card's content.
+                  Join us welcoming a new begining and getting the bride and groom ready for their marriage.
                 </Card.Text>
               </Card.Body>
               <ListGroup className="list-group-flush">
-                <ListGroupItem>Cras justo odio</ListGroupItem>
-                <ListGroupItem>Dapibus ac facilisis in</ListGroupItem>
-                <ListGroupItem>Vestibulum at eros</ListGroupItem>
+                <ListGroupItem>1:30 - Ganesh Puja & Pithi</ListGroupItem>
+                <ListGroupItem>4:00 - Mehndi</ListGroupItem>
+                <ListGroupItem>6:00 - Dinner</ListGroupItem>
               </ListGroup>
-              <Card.Body>
-                <Card.Link href="#">Card Link</Card.Link>
-                <Card.Link href="#">Another Link</Card.Link>
-              </Card.Body>
             </Card>
           </div>
           <div className="col-md-4">
             <h2 className="font-weight-light">Friday</h2>
-            <p>
-              Lorem Ipsum is simply text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            <Card>
+              <Card.Body>
+                <Card.Title>Free Day!</Card.Title>
+                <Card.Text>
+                  Take this day to explore Pittsburgh.
+                </Card.Text>
+                <Card.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/things-to-do" target="_blank">Things to do</Card.Link>
+              </Card.Body>
+            </Card>
           </div>
           <div className="col-md-4">
             <h2 className="font-weight-light">Saturday</h2>
-            <p>
-              Lorem Ipsum is simply text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            <Card>
+              <Card.Body>
+                <Card.Title>Wedding & Reception</Card.Title>
+              </Card.Body>
+              <ListGroup className="list-group-flush">
+                <ListGroupItem>12:00 - Jaan</ListGroupItem>
+                <ListGroupItem>12:45 - Wedding begins</ListGroupItem>
+                <ListGroupItem>2:00 - End of Wedding</ListGroupItem>
+                <ListGroupItem>4:00 - Recpetion and Dinner</ListGroupItem>
+              </ListGroup>
+            </Card>
           </div>
         </div>
       </Container>
