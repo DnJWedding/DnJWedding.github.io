@@ -31,11 +31,11 @@ function Navigation() {
                 <NavDropdown.Item href={ABOUT_DHRUV_PATH}>About Dhruv</NavDropdown.Item>
                 <NavDropdown.Item href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/our-story" target="_blank">The Couple&apos;s Story</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href={HISTORY_OF_BUTCHES_PATH}>Butches History</NavDropdown.Item>
+                <NavDropdown.Item href={HISTORY_OF_BUTCHES_PATH}>Buches History</NavDropdown.Item>
                 <NavDropdown.Item href={HISTORY_OF_NATHWANI_PATH}>Nathwani History</NavDropdown.Item>                
               </NavDropdown>
               <NavDropdown id="ceremony-drop-down" title="About the ceremonies">
-                <NavDropdown.Item href={MENDHI_PATH}>Wedding Preparation</NavDropdown.Item>
+                <NavDropdown.Item href={MENDHI_PATH}>Pre-Wedding Rituals</NavDropdown.Item>
                 <NavDropdown.Item href={CUSTOM_RITUALS_PATH}>Wedding Day</NavDropdown.Item>
                 <NavDropdown.Item href={MUSIC_PATH}>About the Music Selection</NavDropdown.Item>
               </NavDropdown>

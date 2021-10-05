@@ -13,15 +13,16 @@ function WeddingAgenda() {
             <h2 className="font-weight-light">Thursday</h2>
             <Card className="card">
               <Card.Body>
-                <Card.Title>Wedding Preparation</Card.Title>
+                <Card.Title>Pre-Wedding Rituals</Card.Title>
                 <Card.Text>
                   Join us welcoming a new begining and getting the bride and groom ready for their marriage.
                 </Card.Text>
               </Card.Body>
               <ListGroup className="list-group-flush">
                 <ListGroupItem>1:30 - Ganesh Puja & Pithi</ListGroupItem>
-                <ListGroupItem>4:00 - Mehndi</ListGroupItem>
+                <ListGroupItem>4:00 - Mehndi/</ListGroupItem>
                 <ListGroupItem>6:00 - Dinner</ListGroupItem>
+                <ListGroupItem>9:00 - Sangit</ListGroupItem>
               </ListGroup>
             </Card>
           </div>

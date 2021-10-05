@@ -9,8 +9,12 @@ function Home() {
         <div className="banner">
           <Jumbotron fluid>
             <h2 style={{ "font-family":'Carattere' }}>Purshottam Manji Nathwani</h2>
-            <p style={{ "font-family":'Carattere', "font-size": 26 }}>welcomes you to</p>
-            <h1 style={{ "font-family":'Carattere' }}>Jordan Buches' and Dhruv Nathwani's Wedding</h1>
+            <p style={{ "font-family":'Carattere', "font-size": 30 }}>welcomes you to the wedding of</p>
+            <h2 style={{ "font-family":'Carattere' }}>Tom and Dana's daughter</h2>
+            <h1 style={{ "font-family":'Carattere' }}>Jordan Buches</h1>
+            <p style={{ "font-family":'Carattere' }}>and</p>
+            <h2 style={{ "font-family":'Carattere' }}>Jay and Kala's son</h2>
+            <h1 style={{ "font-family":'Carattere' }}>Dhruv Nathwani</h1>
           </Jumbotron>
         </div>
         
