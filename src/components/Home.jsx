@@ -8,13 +8,25 @@ function Home() {
       <div className="container background"  style={{ backgroundImage: `url(${background})` }}>
         <div className="banner">
           <Jumbotron fluid>
-            <h2 style={{ "font-family":'Carattere' }}>Purshottam Manji Nathwani</h2>
-            <p style={{ "font-family":'Carattere', "font-size": 30 }}>welcomes you to the wedding of</p>
-            <h2 style={{ "font-family":'Carattere' }}>Tom and Dana's daughter</h2>
-            <h1 style={{ "font-family":'Carattere' }}>Jordan Buches</h1>
-            <p style={{ "font-family":'Carattere' }}>and</p>
-            <h2 style={{ "font-family":'Carattere' }}>Jay and Kala's son</h2>
-            <h1 style={{ "font-family":'Carattere' }}>Dhruv Nathwani</h1>
+            <div className="row align-items-center">
+              <div className="col-sm-12">
+                <h2 style={{ "font-family":'Carattere' }}>Purshottam Manji Nathwani</h2>
+                <p style={{ "font-family":'Carattere', "font-size": 28 }}>welcomes you to the wedding of</p>
+              </div>
+            </div>
+            <div className="row align-items-center">
+              <div className="col-sm-5">
+                <h3 style={{ "font-family":'Carattere' }}>Tom & Dana's daughter</h3>
+                <h1 style={{ "font-family":'Carattere' }}>Jordan Buches</h1>
+              </div>
+              <div className="col-sm-2">
+                <p style={{ "font-family":'Carattere', "font-size": 30 }}>&</p>
+              </div>
+              <div className="col-sm-5">
+                <h3 style={{ "font-family":'Carattere' }}>Jay & Kala's son</h3>
+                <h1 style={{ "font-family":'Carattere' }}>Dhruv Nathwani</h1>
+              </div>
+            </div>
           </Jumbotron>
         </div>
         
