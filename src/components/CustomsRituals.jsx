@@ -9,9 +9,9 @@ function CustomsRituals() {
           <div className="col-lg-12">
             <h1 className="font-weight-light">Wedding Rituals</h1>
             <p>
-              A Hindy wedding is known as Vivah in Sanskrit or Lagan. Vivah is a union of people 
-              per Vedic tradition. Vivah is one of the ixteen religious rites hindu sanskar and 
-              considered as a lifelong committmemnt between them. 
+              A Hindu weddings are known as <i>Vivah</i> or <i>Lagaan</i> in Sanskrit. <i>Vivah</i> is a union of people 
+              per Vedic tradition. <i>Vivah</i> is one of the sixteen religious rites of hindu <i>sanskar</i> and 
+              considered as a lifelong committmemnt. 
             </p>
           </div>
          
@@ -27,9 +27,9 @@ function CustomsRituals() {
             <h3 className="font-weight-light" type="submit"><i>Ponkhnu</i></h3>
             <p className="font-weight-light">(Welcoming of groom)</p>
             <p>
-              At the ceremony place, the bride's mother performs Arti, offeressome sweets, and welcomes 
-              groom with friedns and family. While distracting his attention, she playfully tried to grab
-              his nose which groom tries to avoide it. The justure behind this ritual is to let him know
+              At the ceremony place, the bride&apos;s mother performs Arti, offers some sweets, and welcomes 
+              groom with friends and family. While distracting his attention, she playfully tried to grab
+              his nose which groom tries to avoide it. The gesture behind this ritual is to let him know
               that he is here to marry her daughter who is very special to her, so he should be humble.
             </p>
           </div>

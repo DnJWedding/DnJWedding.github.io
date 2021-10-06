@@ -15,9 +15,9 @@ function AboutDhruv() {
           <div className="col-lg-5">
             <h1 className="font-weight-light">About Dhruv</h1>
             <p>
-              Dhruv Nathwani was born on Dec 6th 1991 in Idaho to Kala and Jay. Nathwani.
-              and His father's Name is Jay Nathwani.  Dhruv has one younder sister, Halley Radhika and  
-              one younger brother Jaylen Janak.  Dhruv was named by his foi (father's sister).
+              Dhruv Nathwani was born on Dec 6th 1991 in Idaho to Kala and Jay Nathwani.
+              He has one younger sister, Halley Radhika, and one younger brother, Jaylen Janak.
+              Dhruv was named by his foi (father's sister).
             </p>
             <p>
               Dhruv graduated from the University of Pittsburgh in 2013 with a Bachelors of Science in Molecular Biology, 

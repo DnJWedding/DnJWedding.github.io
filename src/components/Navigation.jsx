@@ -14,6 +14,8 @@ import {
 import React from "react";
 import { Nav, Navbar, NavDropdown, Container } from "react-bootstrap";
 import { withRouter } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 function Navigation() {
   return (
@@ -24,12 +26,12 @@ function Navigation() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav" class="navbar-nav ml-auto">
             <Nav className="me-auto">
-              <Nav.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021" target="_blank">The Knot</Nav.Link>
+              <Nav.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021" target="_blank">The Knot <FontAwesomeIcon icon={faExternalLinkAlt} /></Nav.Link>
               <Nav.Link href={WEDDING_AGEDNA_PATH}>Wedding Agenda</Nav.Link>
               <NavDropdown id="about-the-couple-drop-down" title="About the Couple">
                 <NavDropdown.Item href={ABOUT_JORDAN_PATH}>About Jordan</NavDropdown.Item>
                 <NavDropdown.Item href={ABOUT_DHRUV_PATH}>About Dhruv</NavDropdown.Item>
-                <NavDropdown.Item href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/our-story" target="_blank">The Couple&apos;s Story</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/our-story" target="_blank">The Couple&apos;s Story <FontAwesomeIcon icon={faExternalLinkAlt} /></NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href={HISTORY_OF_BUTCHES_PATH}>Buches History</NavDropdown.Item>
                 <NavDropdown.Item href={HISTORY_OF_NATHWANI_PATH}>Nathwani History</NavDropdown.Item>                

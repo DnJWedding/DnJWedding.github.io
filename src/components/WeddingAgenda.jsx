@@ -1,5 +1,7 @@
 import React from "react";
 import { Card, ListGroup, ListGroupItem, Container } from "react-bootstrap";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 function WeddingAgenda() {
   return (
@@ -20,7 +22,7 @@ function WeddingAgenda() {
               </Card.Body>
               <ListGroup className="list-group-flush">
                 <ListGroupItem>1:30 - Ganesh Puja & Pithi</ListGroupItem>
-                <ListGroupItem>4:00 - Mehndi/</ListGroupItem>
+                <ListGroupItem>4:00 - Mehndi</ListGroupItem>
                 <ListGroupItem>6:00 - Dinner</ListGroupItem>
                 <ListGroupItem>9:00 - Sangit</ListGroupItem>
               </ListGroup>
@@ -34,7 +36,7 @@ function WeddingAgenda() {
                 <Card.Text>
                   Take this day to explore Pittsburgh.
                 </Card.Text>
-                <Card.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/things-to-do" target="_blank">Things to do</Card.Link>
+                <Card.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/things-to-do" target="_blank">Things to do <FontAwesomeIcon icon={faExternalLinkAlt} /></Card.Link>
               </Card.Body>
             </Card>
           </div>
@@ -48,7 +50,7 @@ function WeddingAgenda() {
                 <ListGroupItem>12:00 - Jaan</ListGroupItem>
                 <ListGroupItem>12:45 - Wedding begins</ListGroupItem>
                 <ListGroupItem>2:00 - End of Wedding</ListGroupItem>
-                <ListGroupItem>4:00 - Recpetion and Dinner</ListGroupItem>
+                <ListGroupItem>4:00 - Reception and Dinner</ListGroupItem>
               </ListGroup>
             </Card>
           </div>
