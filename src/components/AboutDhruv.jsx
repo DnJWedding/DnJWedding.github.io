@@ -8,7 +8,7 @@ function AboutDhruv() {
           <div className="col-lg-7">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src={require("./../images/SCN_0018.jpg")}
               alt=""
             />
           </div>
@@ -24,10 +24,6 @@ function AboutDhruv() {
               and in 2020 with a Bachelors of Science in Computer Science. He has worked in healthcare for the all of 
               his professional careers. In his free time, Dhruv enjoys reading, playing D&D, and spending time with his 
               friends.
-              
-            </p>
-             <p>
-              Dhruv's... 
             </p>
           </div>
         </div>

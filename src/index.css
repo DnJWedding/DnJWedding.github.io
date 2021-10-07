@@ -5,6 +5,10 @@
   font-family: Raleway,
     monospace;
 }
+.footer {
+  font-family: Raleway,
+    monospace;
+}
 .home {
     background-image: linear-gradient(rgb(33,33,33), rgb(40,55,135));
     color: white;

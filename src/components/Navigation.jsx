@@ -25,10 +25,10 @@ function Navigation() {
           <Navbar.Brand href="/">D&J Wedding</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav" class="navbar-nav ml-auto">
-            <Nav className="me-auto">
+            <Nav className="me-auto align-items-center">
               <Nav.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021" target="_blank">The Knot <FontAwesomeIcon icon={faExternalLinkAlt} /></Nav.Link>
               <Nav.Link href={WEDDING_AGEDNA_PATH}>Wedding Agenda</Nav.Link>
-              <NavDropdown id="about-the-couple-drop-down" title="About the Couple">
+              <NavDropdown id="about-the-couple-drop-down" title="About the couple">
                 <NavDropdown.Item href={ABOUT_JORDAN_PATH}>About Jordan</NavDropdown.Item>
                 <NavDropdown.Item href={ABOUT_DHRUV_PATH}>About Dhruv</NavDropdown.Item>
                 <NavDropdown.Item href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/our-story" target="_blank">The Couple&apos;s Story <FontAwesomeIcon icon={faExternalLinkAlt} /></NavDropdown.Item>
