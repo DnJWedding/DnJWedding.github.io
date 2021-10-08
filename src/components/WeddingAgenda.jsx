@@ -29,6 +29,7 @@ function WeddingAgenda() {
           <div className="col-md-4 pb-5">
             <h3 className="font-weight-light">Thursday, Oct. 7</h3>
             <Card className="card">
+              <Card.Img variant="top" src={require("./../images/13244754_1709462792628218_4890932340778020194_n - Copy - Copy.jpg")} />
               <Card.Body>
                 <Card.Title>Pre-Wedding Rituals</Card.Title>
                 <Card.Text>
@@ -57,11 +58,13 @@ function WeddingAgenda() {
                 </Card.Text>
                 <Card.Link href="https://www.theknot.com/us/jordan-buches-and-dhruv-nathwani-oct-2021/things-to-do" target="_blank">Things to do <FontAwesomeIcon icon={faExternalLinkAlt} /></Card.Link>
               </Card.Body>
+              <Card.Img variant="top" src={require("./../images/17362362_1843266792581150_5086625621452750390_n - Copy.jpg")} />
             </Card>
           </div>
           <div className="col-md-4 pb-5">
             <h3 className="font-weight-light">Saturday, Oct. 9</h3>
             <Card className="card">
+              <Card.Img variant="top" src={require("./../images/12342431_1650337178540780_8554205907818693647_n - Copy - Copy.jpg")} />
               <Card.Body>
                 <Card.Title>Wedding Day</Card.Title>
               </Card.Body>
@@ -75,6 +78,7 @@ function WeddingAgenda() {
                 <ListGroupItem>{ dateWeddingEndText } - Wedding ends</ListGroupItem>
                 <ListGroupItem>{ dateReceptionText } - Reception & Dinner</ListGroupItem>
               </ListGroup>
+              <Card.Img variant="top" src={require("./../images/14708371_1771367676437729_6393053865330127976_n - Copy - Copy.jpg")} />
             </Card>
           </div>
         </div>

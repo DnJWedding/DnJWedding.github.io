@@ -14,16 +14,22 @@ function CustomsRituals() {
               considered as a lifelong committmemnt. 
             </p>
           </div>
-         
-          <div className="col-lg-12">
+          <div className="col-lg-7">
+            <img
+              className="img-fluid rounded mb-4 mb-lg-0"
+              src={require("./../images/12360268_1651595138414984_8459556525112675545_n - Copy - Copy.jpg")}
+              alt=""
+              width="100%"
+              fluid
+            />
+          </div>
+          <div className="col-lg-5">
             <h3 className="font-weight-light" type="submit"><i>Varghodo</i></h3>
             <p className="font-weight-light">(Arrival of Jann)</p>
             <p>
               On the wedding day at an auspicious hour, the <i>dulha</i>, arrives with family 
               and friends at the <i>dulhan&apos;s</i> residence where the ceremony takes place.
             </p>
-          </div>
-          <div className="col-lg-12">
             <h3 className="font-weight-light" type="submit"><i>Ponkhnu</i></h3>
             <p className="font-weight-light">(Welcoming of groom)</p>
             <p>
@@ -32,16 +38,12 @@ function CustomsRituals() {
               his nose which groom tries to avoide it. The gesture behind this ritual is to let him know
               that he is here to marry her daughter who is very special to her, so he should be humble.
             </p>
-          </div>
-          <div className="col-lg-12">
             <h3 className="font-weight-light" type="submit"><i>Jaimala</i></h3>
             <p>
               At the Mandap, bride and groom exchanges the entrance to the <i>dulhan&apos;s</i> residence, the fathers of both <i>dulhan</i> and <i>dulha</i> embrace each
               other. The <i>dulha</i> is garlanded. Vedic hymms are chanted by the priest in attendance. A short <i>puja</i>
               or prayer service takes place. The <i>dulha</i> accepts a gift from the <i>dulhan&apos;s</i> father.
             </p>
-          </div>
-          <div className="col-lg-12">
             <h3 className="font-weight-light"><i>Antarpaat</i></h3>
             <p>
               The <i>dulha</i> enters the premises where the mother of the <i>dulhan</i> and her female friends welcome him.
@@ -63,7 +65,7 @@ function CustomsRituals() {
           </div>
           <div className="col-lg-12">
             <h3 className="font-weight-light">Bride Enters <i>Mandap</i></h3>
-            <h3 className="font-weight-light"><i>Puja</i> to<i>Lord Ganesh</i> is preformed, followed by <i>Raksha Sutra</i></h3>
+            <h3 className="font-weight-light"><i>Puja</i> to <i>Lord Ganesh</i> is preformed, followed by <i>Raksha Sutra</i></h3>
           </div>
           <div className="col-lg-12">
             <h3 className="font-weight-light"><i>Mangalpheras</i></h3>

@@ -8,7 +8,7 @@ function MusicSelection() {
           <div className="col-lg-7">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src={require("./../images/12321309_1651621771745654_3287897592628030570_n - Copy - Copy.jpg")}
               alt=""
             />
           </div>
