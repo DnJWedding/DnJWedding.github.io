@@ -8,30 +8,15 @@ function HistoryOfBuches() {
           <div className="col-lg-7">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src={require("./../images/tipNkiss.jpg")}
+              src={require("./../images/My Whole Family.jpg")}
               alt=""
             />
           </div>
           <div className="col-lg-5">
             <h1 className="font-weight-light">History Of Buches</h1>
             <p>
-              TBD
+              Coming soon...
             </p>
-          </div>
-          <div className="col-lg-5">
-            <p>
-              TBD
-            </p>
-            <p>
-              TBD
-            </p>
-          </div>
-          <div className="col-lg-7">
-            <img
-              className="img-fluid rounded mb-4 mb-lg-0"
-              src={require("./../images/tipNkiss.jpg")}
-              alt=""
-            />
           </div>
         </div>
       </div>
