@@ -11,8 +11,8 @@ var dateMehndi = new Date(Date.UTC(2021,9,7,20,0,0)); var dateMehndiText = myDat
 var dateDinner = new Date(Date.UTC(2021,9,7,22,0,0)); var dateDinnerText = myDateTimeFormat.format(dateDinner);
 var dateSangit = new Date(Date.UTC(2021,9,8,1,0,0)); var dateSangitText = myDateTimeFormat.format(dateSangit);
 
-var dateJaan = new Date(Date.UTC(2021,9,9,16,0,0)); var dateJaanText = myDateTimeFormat.format(dateJaan);
-var dateWeddingStart = new Date(Date.UTC(2021,9,9,16,45,0)); var dateWeddingStartText = myDateTimeFormat.format(dateWeddingStart);
+var dateJaan = new Date(Date.UTC(2021,9,9,15,0,0)); var dateJaanText = myDateTimeFormat.format(dateJaan);
+var dateWeddingStart = new Date(Date.UTC(2021,9,9,15,40,0)); var dateWeddingStartText = myDateTimeFormat.format(dateWeddingStart);
 var dateWeddingEnd = new Date(Date.UTC(2021,9,9,18,0,0)); var dateWeddingEndText = myDateTimeFormat.format(dateWeddingEnd);
 var dateReception = new Date(Date.UTC(2021,9,9,20,0,0)); var dateReceptionText = myDateTimeFormat.format(dateReception);
 
